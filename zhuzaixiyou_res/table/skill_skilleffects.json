@@ -1,0 +1,1 @@
+[{"lowLimit":"技能等级下限","upperLimit":"技能等级上限","scaling":"缩放比例"},{"lowLimit":1,"upperLimit":40,"scaling":0.75},{"lowLimit":41,"upperLimit":70,"scaling":1},{"lowLimit":71,"upperLimit":100,"scaling":1.25}]
